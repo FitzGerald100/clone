@@ -1,1 +1,2 @@
 # democrazy
+# trainingpurpose
